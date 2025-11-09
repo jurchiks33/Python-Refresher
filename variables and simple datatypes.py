@@ -86,11 +86,20 @@
 # print(colors)
 
 
-colors = []
-colors.append('green')
-colors.append('yellow')
-colors.append('black')
-colors.append('blue')
-print(colors)
+# colors = []
+# colors.append('green')
+# colors.append('yellow')
+# colors.append('black')
+# colors.append('blue')
+# print(colors)
+
+
+# colors = ['red', 'green', 'yellow']
+# colors.insert(3, 'green')
+# print(colors)
+# del colors[0]
+# print(colors)
+# del colors[0]
+# print(colors)
 
 
