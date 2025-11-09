@@ -35,3 +35,8 @@
 # print(favorite_language)
 
 
+# nostrach_url = 'https://nostrach.com'
+# nostrach_url.removeprefix('https://')
+# 'nostrach.com'
+
+
