@@ -30,3 +30,8 @@
 # print("Refresher List: \n\tRefresher\n\tRefreeesher\n\tRefreeeeesher")
 
 
+# favorite_language = "python "
+# favorite_language = favorite_language.rstrip() #.lstrip() for left side
+# print(favorite_language)
+
+
