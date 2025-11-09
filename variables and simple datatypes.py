@@ -64,3 +64,14 @@
 # print(numbers[-3])
 
 
+# numbers = ['zero', 'one', 'two', 
+#            'three', 'four', 'five',
+#            'six', 'seven', 'eight']
+
+# message = f"next number after zero is: {numbers[1].title()}"
+# print(message)
+
+# message = f"five minus three is: {numbers[2].title()}"
+# print(message)
+
+
