@@ -85,3 +85,12 @@
 # colors.append('green')
 # print(colors)
 
+
+colors = []
+colors.append('green')
+colors.append('yellow')
+colors.append('black')
+colors.append('blue')
+print(colors)
+
+
