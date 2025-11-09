@@ -51,3 +51,16 @@
 # print(bicycles[1].title())
 # print(bicycles[2].title())
 # print(bicycles[3].title())
+
+
+# numbers = ['zero', 'one', 'two', 
+#            'three', 'four', 'five',
+#            'six', 'seven', 'eight']
+# print(numbers[1])
+# print(numbers[8])
+# print(numbers[5])
+# print(numbers[-1])
+# print(numbers[-6])
+# print(numbers[-3])
+
+
