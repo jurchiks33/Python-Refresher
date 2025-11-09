@@ -75,3 +75,13 @@
 # print(message)
 
 
+# colors = ['red', 'purple', 'yellow']
+# print(colors)
+
+# colors[0] = 'Now i am green'
+# print(colors)
+
+# colors = ['red', 'purple', 'yellow']
+# colors.append('green')
+# print(colors)
+
