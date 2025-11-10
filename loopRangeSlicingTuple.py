@@ -53,3 +53,16 @@
 # print(friends_food)
 
 
+# my_food = ['pizza', 'burger', 'salad', 'soup', 'pasta']
+# friends_food = my_food[:]
+
+# my_food.append('brokkoli')
+# friends_food.append('ice cream')
+
+# print("My favorite food is:")
+# print(my_food)
+
+# print("\nMy friends favorite foods are:")
+# print(friends_food)
+
+
