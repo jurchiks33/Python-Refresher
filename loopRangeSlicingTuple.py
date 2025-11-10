@@ -37,3 +37,9 @@
 # print(numbers[-4:])
 
 
+# numbers = ['1', '2', '3', '4', '5', '6', '7']
+# print("Here are my first numbers:")
+# for number in numbers[:3]:
+#     print(number.title())
+
+
