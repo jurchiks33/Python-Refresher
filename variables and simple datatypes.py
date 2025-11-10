@@ -103,3 +103,10 @@
 # print(colors)
 
 
+# baloons = ['red', 'green', 'yellow', 'white']
+# print(baloons)
+
+# popped_baloons = baloons.pop()
+# print(baloons)
+# print(popped_baloons)
+
