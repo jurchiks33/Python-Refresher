@@ -123,3 +123,12 @@
 # baloons.remove('yellow')
 # print(baloons)
 
+
+# cars = ['bmw', 'toyota', 'audi', 'porshe']
+# print(cars)
+# to_expensive = ('bmw')
+# cars.remove(to_expensive)
+# print(cars)
+# print(f"\nA {to_expensive.title()} is to expensive for me.")
+
+
