@@ -132,3 +132,10 @@
 # print(f"\nA {to_expensive.title()} is to expensive for me.")
 
 
+# numbers = ['8', '3', '7', '8', '2', '4']
+# numbers.sort()
+# print(numbers)
+# numbers.sort(reverse=True)
+# print(numbers)
+# print(len(numbers))
+
