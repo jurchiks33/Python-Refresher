@@ -116,3 +116,10 @@
 # print(f"Last baloon i popped was: {last_poped_baloon.title()}.")
 
 
+# baloons = ['yellow', 'red', 'green', 'white']
+# baloon_popped = baloons.pop(1)
+# print(f"This time i popped: {baloon_popped.title()}.")
+
+# baloons.remove('yellow')
+# print(baloons)
+
