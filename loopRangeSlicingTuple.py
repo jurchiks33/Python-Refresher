@@ -43,3 +43,13 @@
 #     print(number.title())
 
 
+# my_food = ['pizza', 'burger', 'salad', 'pasta', 'toast']
+# friends_food = my_food[:]
+
+# print("My favorite food is:")
+# print(my_food)
+
+# print("\nMy friends favorite foods are:")
+# print(friends_food)
+
+
