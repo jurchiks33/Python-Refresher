@@ -93,3 +93,14 @@
 #     print(dimension)
 
 
+# Restaurant_menu = ("pizza", "soup", "hamburger", "salad")
+# print("Restaurant menu:")
+# for menu in Restaurant_menu:
+#     print(menu)
+
+# #Restaurant_menu[0] = "callzone"
+
+# Restaurant_menu = ("Callzone", "Cheese Plate", "Fish", "Cheese Cake")
+# print("\nUpdated restaurant menu:")
+# for menu in Restaurant_menu:
+#     print(menu)
