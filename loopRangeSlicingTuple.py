@@ -66,3 +66,30 @@
 # print(friends_food)
 
 
+# # TUPLES values that cannot be changed
+# # to declare values that would not change, we declare them in parenthesees instead of brackets
+## we can also declare tuple with one coma. my_tuple = (3,)
+# dimensions =(200, 50, 175)
+# print(dimensions[0])
+# print(dimensions[1])
+# print(dimensions[2])
+
+# #dimensions[0] = 300 ## if we try to change dimensions we would get error
+
+
+# dimensions = (200, 78, 34, 78, 13)
+# for dimension in dimensions:
+#     print(dimension)
+
+
+# dimensions = (333, 44, 38, 76, 59)
+# print("Original dimensions")
+# for dimension in dimensions:
+#     print(dimension)
+
+# dimensions = (23, 45, 23, 78, 999)
+# print("\nNew dimensions")
+# for dimension in dimensions:
+#     print(dimension)
+
+
