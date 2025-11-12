@@ -34,16 +34,28 @@
 # print(f"Your price is ${price}")
 
 
-age = 65
-if age < 18:
-    price = 25
-elif age < 25:
-    price = 40
-elif age > 60:
-    price = 9.99
-else:
-    price = 99
+# age = 65
+# if age < 18:
+#     price = 25
+# elif age < 25:
+#     price = 40
+# elif age > 60:
+#     price = 9.99
+# else:
+#     price = 99
 
-print(f"Your price is ${price}")
+# print(f"Your price is ${price}")
+
+
+# requested_pizza_toppings = ['pepperoni', 'cheese', 'tomato']
+
+# if 'cheese' in requested_pizza_toppings:
+#     print("adding cheese")
+# if 'pepperoni' in requested_pizza_toppings:
+#     print("adding pepperoni")
+# if 'cuccamber' in requested_pizza_toppings:
+#     print("adding cucamber")
+
+# print("\nFinishing making pizza!")
 
 
