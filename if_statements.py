@@ -14,3 +14,12 @@
 #     print("grow up!")
 
 
+# age = 25
+# if age < 18:
+#     print("Your price is 33 usd")
+# elif age < 22:
+#     print("your price is 44 usd")
+# else:
+#     print("your price is 99 usd")
+
+
