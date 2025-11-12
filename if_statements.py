@@ -7,3 +7,10 @@
 #         print(car.title())
 
 
+# age = 25
+# if age >= 20:
+#     print("you are old enought")
+# else:
+#     print("grow up!")
+
+
