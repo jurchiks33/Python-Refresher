@@ -34,3 +34,16 @@
 # print(f"Your price is ${price}")
 
 
+age = 65
+if age < 18:
+    price = 25
+elif age < 25:
+    price = 40
+elif age > 60:
+    price = 9.99
+else:
+    price = 99
+
+print(f"Your price is ${price}")
+
+
