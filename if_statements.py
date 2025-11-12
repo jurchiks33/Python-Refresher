@@ -23,3 +23,14 @@
 #     print("your price is 99 usd")
 
 
+# age = 25
+# if age < 18:
+#     price = 45
+# elif age < 24:
+#     price = 55
+# else:
+#     price = 99
+
+# print(f"Your price is ${price}")
+
+
