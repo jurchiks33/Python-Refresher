@@ -101,3 +101,17 @@
 #     print("Are you sure you want a plain pizza?")
 
 
+# available_toppings = ['mushrooms', 'olives', 'peppers', 
+#                       'pepperoni', 'pineapple', 'cheese']
+
+# requested_toppings = ['mushrooms', 'french fries', 'cheese']
+
+# for topping in requested_toppings:
+#     if topping in available_toppings:
+#         print(f"Adding {topping}.")
+#     else:
+#         print(f"sorry we dont have {topping}.")
+
+# print("\nYour pizza is ready")
+
+
