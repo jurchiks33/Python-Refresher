@@ -59,3 +59,16 @@
 # print("\nFinishing making pizza!")
 
 
+# age = 27
+# if age < 18:
+#     price = 14.99
+# elif age < 25:
+#     price = 19.99
+# elif age > 60:
+#     price = 9.99
+# else:
+#     price = 39.99
+
+# print(f"Your ticket price is ${price}")
+
+
