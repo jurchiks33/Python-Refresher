@@ -80,3 +80,14 @@
 # print("\nFinishing best pizza ever!")
 
 
+# requested_topping = ['pepperoni', 'mushrooms', 'cheese', 'tomato', 'ham']
+
+# for topping in requested_topping:
+#     if topping == 'pepperoni':
+#         print("Sorry our chef eat all pepperoni!")
+#     else:
+#         print(f"Adding {topping}")
+
+# print("\nFinished making your pizza")
+
+
