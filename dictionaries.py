@@ -19,3 +19,13 @@
 # print(Book_0) 
 
 
+# Book_0 = {}
+
+# Book_0['cover'] = 'Hardcover'
+# Book_0['pages'] = '735'
+# Book_0['shelf'] = '7'
+# Book_0['row'] = '4'
+
+# print(Book_0)
+
+
