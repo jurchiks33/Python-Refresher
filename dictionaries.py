@@ -60,3 +60,16 @@
 
 #============================================================
 
+# car_colors = {
+#     'audi': 'silver',
+#     'BMW': 'black',
+#     'toyota': 'white',
+#     'tesla': 'red'
+# }
+
+# print(car_colors)
+
+# color = car_colors['tesla'].title()
+# print(f"Most common color for the tesla is {color}")
+
+#============================================================
