@@ -29,3 +29,9 @@
 # print(Book_0)
 
 
+# book_0 = {'cover': 'hardcover'}
+# print(f"books current cover is {book_0['cover']}")
+# book_0['cover'] = 'softcover'
+# print(f"New cover for the book is {book_0['cover']}")
+
+
