@@ -73,3 +73,16 @@
 # print(f"Most common color for the tesla is {color}")
 
 #============================================================
+
+# patient_0 = {
+#     'name': 'unknown',
+#     'location': 'Milky Way Galaxy',
+#     'origin': 'Andromeda' 
+#     }
+
+# for key, value in patient_0.items():
+#     print(f"\nKey: {key}")
+#     print(f"\nValue: {value}")
+
+#===========================================================
+
