@@ -98,3 +98,18 @@
 
 #==========================================================
 
+# favorite_languages = {
+#     'jen': 'python',
+#     'sarah': 'c',
+#     'edward': 'rust',
+#     'phil': 'javaScript'
+# }
+
+# for name in favorite_languages.keys():
+#     print(name.title())
+
+# for name in favorite_languages.values():
+#     print(name.title())
+
+#=========================================================
+
