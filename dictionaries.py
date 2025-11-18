@@ -113,3 +113,13 @@
 
 #=========================================================
 
+# alien_0 = {'color': 'green', 'points': 5}
+# alien_1 = {'color': 'yellow', 'points': 10}
+# alien_2 = {'color': 'red', 'points': 15}
+# alien_3 = {'color': 'rainbow', 'points': 50}
+
+# aliens = [alien_0, alien_1, alien_2, alien_3]
+# for alien in aliens:
+#     print(alien)
+
+#========================================================
