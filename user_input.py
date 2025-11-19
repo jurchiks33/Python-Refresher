@@ -20,3 +20,13 @@
 
 #===============================================================================
 
+# height = input("How tall are you, in cm?")
+# height = int(height)
+
+# if height >= 185:
+#     print("\n Wow... you are one tall lad")
+# else:
+#     print("\nNice! you still have room to grow")
+
+#===============================================================================
+
