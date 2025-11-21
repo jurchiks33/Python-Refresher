@@ -64,3 +64,14 @@
 # print(musician)
 
 #===============================================================================
+
+# def formatted_name(first_name, middle_name, last_name):
+#     """Returning a full name"""
+#     full_name = f"{first_name} {middle_name} {last_name}"
+#     return full_name.title()
+
+# musician = formatted_name('john', 'lee', 'hooker')
+# print(musician)
+
+#===============================================================================
+
