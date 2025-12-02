@@ -43,6 +43,18 @@
 # else:
 #     print("your price is 99 usd")
 
+#================================================
+
+# age = 40
+
+# if age < 18:
+#     print("Your admission price is 20 usd")
+# elif age < 25:
+#     print("Your admission price is 40 usd")
+# else:
+#     print("Your admissin price is 49.99 usd")
+
+#=================================================
 
 # age = 25
 # if age < 18:
@@ -54,6 +66,20 @@
 
 # print(f"Your price is ${price}")
 
+#=================================================
+
+# age = 40
+
+# if age < 18:
+#     price = 20
+# elif age < 25:
+#     price = 40
+# else:
+#     price = 49.99
+
+# print(f"Your price is ${price}")
+
+#==================================================
 
 # age = 65
 # if age < 18:
