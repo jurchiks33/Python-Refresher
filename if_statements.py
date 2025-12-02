@@ -1,3 +1,4 @@
+#===============================================
 
 # cars = ['audi', 'bmw', 'toyota', 'subaru']
 # for car in cars:
@@ -6,6 +7,17 @@
 #     else:
 #         print(car.title())
 
+#===============================================
+
+# courses = ['Machine learning', 'AI', 'Front-end', 'Back-end']
+# for course in courses:
+#     if course == 'Machine learning':
+#         print(course.upper())
+#     else:
+#         print(course.title())
+
+
+#================================================
 
 # age = 25
 # if age >= 20:
@@ -13,6 +25,15 @@
 # else:
 #     print("grow up!")
 
+#================================================
+
+# age = 40
+# if age >= 20:
+#     print("Your are older than 20")
+# else:
+#     print("Your age is below 20!")
+
+#================================================
 
 # age = 25
 # if age < 18:
