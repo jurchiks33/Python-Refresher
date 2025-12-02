@@ -180,6 +180,19 @@ print()
 
 #=======================================================
 
+# application = {
+#     'language': ['Python', 'JavaScript', 'React', 'C++'],
+#     'UI': ['Web Based', 'Table App', 'Hybrid'],
+# }
+
+# print(f" You can choose one of the following languages {application['language']}"
+#       "with following interfaces: ")
+
+# for ui in application['UI']:
+#     print(f"\t{ui}")
+
+#=======================================================
+
 # favorite_languages = {
 #     'jen': ['python', 'rust'],
 #     'sarah': ['c'],
