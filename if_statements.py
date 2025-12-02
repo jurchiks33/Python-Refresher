@@ -93,6 +93,22 @@
 
 # print(f"Your price is ${price}")
 
+#==================================================
+
+# age = 62
+
+# if age < 18:
+#     price = 18.18
+# elif age < 25:
+#     price = 25.25
+# elif age > 60:
+#     price = 0.99
+# else:
+#     price = 55.55
+
+# print(f"Your price is {price}")
+
+#==================================================
 
 # requested_pizza_toppings = ['pepperoni', 'cheese', 'tomato']
 
