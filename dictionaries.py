@@ -4,6 +4,8 @@
 # print(Book_0['Cover'])
 # print(Book_0['pages'])
 
+Course_1 = {'name': 'IT', 'length': '20 uker'}
+print()
 
 # Book_0 = {'Cover': 'Hardcover', 'pages': '735'}
 
@@ -86,6 +88,19 @@
 
 #===========================================================
 
+# course_day_2 = {
+#     'name': 'IT kurss med hoyere utdanning',
+#     'location': 'Brynsen',
+#     'leverandor': 'NAV'
+# }
+
+# for key, value in course_day_2.items():
+#     print(f"\nKey: {key}")
+#     print(f"\nValue: {value}")
+
+
+#===========================================================
+
 # favorite_languages = {
 #     'jen': 'python',
 #     'sarah': 'c',
@@ -135,6 +150,20 @@
 # print("...")
 
 # print(f"Total number of aliens: {len(aliens)}")
+
+#=======================================================
+
+# students = []
+
+# for student_number in range(50):
+#     new_student = {'education': 'masters', 'age': '40', 'height': '180'}
+#     students.append(new_student)
+
+# for student in students[:5]:
+#     print(student)
+# print("....")
+
+# print(f"Total number od students: {len(students)}")
 
 #=======================================================
 
