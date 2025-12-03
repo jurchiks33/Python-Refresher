@@ -150,6 +150,7 @@
 
 # print(f"Your ticket price is ${price}")
 
+#=================================================
 
 # requested_topping = ['pepperoni', 'mushrooms', 'cheese', 'tomato', 'ham']
 
@@ -158,6 +159,16 @@
 
 # print("\nFinishing best pizza ever!")
 
+#=================================================
+
+# possible_courses = ['Machine learning', 'AI', 'Front-end', 'Back-end', 'Dev-ops']
+
+# for courses in possible_courses:
+#     print(f"choose {courses}. ")
+
+# print("\nThis is the list of courses that we have")
+
+#=================================================
 
 # requested_topping = ['pepperoni', 'mushrooms', 'cheese', 'tomato', 'ham']
 
