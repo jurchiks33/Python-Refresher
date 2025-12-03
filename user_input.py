@@ -48,6 +48,16 @@
 
 #===============================================================================
 
+# height = input("How tall are you in cm?")
+# height = int(height)
+
+# if height >= 180:
+#     print("\n You are one tall lad")
+# else:
+#     print("\nNice you still have ways to grow")
+
+#===============================================================================
+
 # number = input("Enter a number and i will tell you if it is odd:")
 # number = int(number)
 
