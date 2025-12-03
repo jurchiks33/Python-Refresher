@@ -30,6 +30,14 @@
 
 #===============================================================================
 
+# prompt = "If you tell me your name, i can personalise it to you."
+# prompt += "\nWhat is your name?"
+
+# name = input(prompt)
+# print(f"\nHello, {name}")
+
+#===============================================================================
+
 # height = input("How tall are you, in cm?")
 # height = int(height)
 
