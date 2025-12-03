@@ -155,3 +155,13 @@
 #     print(f"\nHello, {formatted_name}")
 
 #===============================================================================
+
+# def city_country(city, country):
+#     """Return a string in the format city, country"""
+#     return f"{city.title()}, {country.title()}"
+
+# print(city_country('Santiago', 'Chile'))
+# print(city_country('Oslo', 'Norway'))
+# print(city_country('Riga', 'Latvia'))
+
+#===============================================================================
