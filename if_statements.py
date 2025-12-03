@@ -180,6 +180,19 @@
 
 # print("\nFinished making your pizza")
 
+#================================================
+
+# requested_courses = ['Machine Learning', 'Front-end', 'Back-end']
+
+# for course in requested_courses:
+#     if course == 'Front-end':
+#         print("Sorry you already assigned to machine learning course")
+#     else:
+#         print(f"Choose one of the courses {course}")
+
+# print("Complete course list")
+
+#================================================
 
 # requested_topping = []
 
