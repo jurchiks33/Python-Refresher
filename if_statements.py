@@ -123,18 +123,18 @@
 
 #==================================================
 
-requested_toppings = ['pepperoni', 'cheese', 'tomato', 'pinapple', 'gravy']
+# requested_toppings = ['pepperoni', 'cheese', 'tomato', 'pinapple', 'gravy']
 
-if 'pepperoni' in requested_toppings:
-    print("adding pepperoni")
-if 'cheese' in requested_toppings:
-    print("adding cheese")
-if 'tomato' in requested_toppings:
-    print("adding Tomato")
-if 'pineapple' in requested_toppings:
-    print("adding Pineapple")
-else:
-    print("we dont have that topping")
+# if 'pepperoni' in requested_toppings:
+#     print("adding pepperoni")
+# if 'cheese' in requested_toppings:
+#     print("adding cheese")
+# if 'tomato' in requested_toppings:
+#     print("adding Tomato")
+# if 'pineapple' in requested_toppings:
+#     print("adding Pineapple")
+# else:
+#     print("we dont have that topping")
 
 #=================================================
 
