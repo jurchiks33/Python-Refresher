@@ -166,3 +166,14 @@
 
 #===============================================================================
 
+# def greet_users(names):
+#     """Printin greeting message to user"""
+#     for name in names:
+#         msg = f"hello, {name.title()}"
+#         print(msg)
+
+# usernames = ['Juris', 'Andrea', 'George']
+# greet_users(usernames)
+
+#===============================================================================
+
