@@ -198,4 +198,9 @@ def print_models(unprinted_designs, completed_designs):
         print(f"printing model: {current_design}")
         completed_models.append(current_design)
 
-def 
+def show_completed_models(completed_models):
+    """Show all models that are printed"""
+    print("\nThe following models have beed printed: ")
+    for completed_model in completed_models:
+        print(completed_model)
+
