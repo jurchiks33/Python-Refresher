@@ -14,18 +14,20 @@
 
 #===============================================================================
 
-import numpy as np
+# import numpy as np
 
-def train_linear_regression(X, y):
-    """Training linear regression."""
-    X = np.asarray(X, dtype=float)
-    y = np.asarray(y, dtype=float)
-    n_samples, n_features = X.shape
+# def train_linear_regression(X, y):
+#     """Training linear regression."""
+#     X = np.asarray(X, dtype=float)
+#     y = np.asarray(y, dtype=float)
+#     n_samples, n_features = X.shape
 
-    # Initiatig parameters
-    w = np.zeros(n_features, dtype=float)
-    b = 0.0
+#     # Initiatig parameters
+#     w = np.zeros(n_features, dtype=float)
+#     b = 0.0
 
-    for epoch in range(1, epochs + 1):
-        preds = X.dot(w) + b
-        errors = preds - y
+#     for epoch in range(1, epochs + 1):
+#         preds = X.dot(w) + b
+#         errors = preds - y
+
+        
