@@ -191,3 +191,11 @@
 
 #===============================================================================
 
+def print_models(unprinted_designs, completed_designs):
+    """Simulate printing designs until none is left"""
+    while unprinted_designs:
+        current_design = unprinted_designs.pop()
+        print(f"printing model: {current_design}")
+        completed_models.append(current_design)
+
+def 
