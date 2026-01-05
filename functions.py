@@ -26,13 +26,13 @@
 
 # describe_pet('hamster', 'combat')
 
-def describe_human(first_name, last_name):
-    """Display information about the user."""
-    print(f"I have friend named {first_name}")
-    print(f"Mu friends full name is {first_name.title()} {last_name.title()}")
+# def describe_human(first_name, last_name):
+#     """Display information about the user."""
+#     print(f"I have friend named {first_name}")
+#     print(f"Mu friends full name is {first_name.title()} {last_name.title()}")
 
-describe_human('Paul', 'Anders')
-describe_human('John', 'Smith')
+# describe_human('Paul', 'Anders')
+# describe_human('John', 'Smith')
 
 #===============================================================================
 
@@ -98,19 +98,19 @@ describe_human('John', 'Smith')
 # musician = formatted_name('john', 'hooker', 'lee')
 # print(musician)
 
-def formatted_name(first_name, last_name, middle_name=''):
-    """Getting formated name"""
-    if middle_name:
-        full_name = f"{first_name} {middle_name} {last_name}"
-    else:
-        full_name = f"{first_name} {last_name}"
-    return full_name.title()
+# def formatted_name(first_name, last_name, middle_name=''):
+#     """Getting formated name"""
+#     if middle_name:
+#         full_name = f"{first_name} {middle_name} {last_name}"
+#     else:
+#         full_name = f"{first_name} {last_name}"
+#     return full_name.title()
 
-person = formatted_name('Paul', 'Anders', 'Andersen')
-print(person)
+# person = formatted_name('Paul', 'Anders', 'Andersen')
+# print(person)
 
-person = formatted_name('Rosalinda', 'Smith')
-print(person)
+# person = formatted_name('Rosalinda', 'Smith')
+# print(person)
 
 #===============================================================================
 
@@ -155,6 +155,27 @@ print(person)
 
 #     formatted_name = get_formatted_name(f_name, l_name)
 #     print(f"\nHello, {formatted_name}")
+
+# def get_full_name(first_name, last_name):
+#     """Getting a full name"""
+#     full_name = f"{first_name} {last_name}"
+#     return full_name.title()
+
+# while True:
+#     print("\nPlease tell me your name")
+#     print("(enter 'q' at any time to quit)")
+
+#     f_name = input("Frist name:")
+#     if f_name == 'q':
+#         break
+
+#     l_name = input("Last name:")
+#     if l_name == 'q':
+#         break
+
+#     full_name = get_full_name(f_name, l_name)
+#     print(f"\nHello, {full_name}")
+
 
 #===============================================================================
 
