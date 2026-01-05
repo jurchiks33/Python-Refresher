@@ -10,6 +10,7 @@
 
 #===============================================================================
 
+
 # def greet_user(username):
 #     """Display a simple greeting."""
 #     print(f"Hello, {username.title()}!")
@@ -24,6 +25,14 @@
 #     print(f"My {animal_type}'s name is {pet_name.title()}")
 
 # describe_pet('hamster', 'combat')
+
+def describe_human(first_name, last_name):
+    """Display information about the user."""
+    print(f"I have friend named {first_name}")
+    print(f"Mu friends full name is {first_name.title()} {last_name.title()}")
+
+describe_human('Paul', 'Anders')
+describe_human('John', 'Smith')
 
 #===============================================================================
 
@@ -88,6 +97,20 @@
 
 # musician = formatted_name('john', 'hooker', 'lee')
 # print(musician)
+
+def formatted_name(first_name, last_name, middle_name=''):
+    """Getting formated name"""
+    if middle_name:
+        full_name = f"{first_name} {middle_name} {last_name}"
+    else:
+        full_name = f"{first_name} {last_name}"
+    return full_name.title()
+
+person = formatted_name('Paul', 'Anders', 'Andersen')
+print(person)
+
+person = formatted_name('Rosalinda', 'Smith')
+print(person)
 
 #===============================================================================
 
