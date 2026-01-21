@@ -19,4 +19,15 @@ def train_test_split(X, y, test_size=0.2, seed=42):
 
     return X[train_idx], X[test_idx], y[train_idx], y[test_idx] # return (X_train, X_test, y_train, y_test)
 
+# --- test for function above ---
+if __name__ == "__main__":              # run this test when file is executed
+    X = [[1], [2], [3], [4], [5]]       # example features (one feature per row)
+    y = [2, 4, 6, 8, 10]                # example labels (2x relationship)
+
+    X_train, X_test, y_train, y_test = train_test_split(X, y, 0.4, 1) # split test size 40% and fixed seed 1
+
+    print("X_train:", X_train.tolist()) # print training featuresa
+    print("y_train:", y_train.tolist()) # print training labels
+    print("X_test:", X_test.tolist())   # print test features
+    print("y_test:", y_test.tolist())   # print test labels
 #===================================================================
